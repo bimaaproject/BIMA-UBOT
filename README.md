@@ -1,11 +1,11 @@
 <a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5519646.png" width="516" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/proyek bima/BIMA-UBOT/fork">
+    <img src="https://img.shields.io/github/forks/proyek bima/BIMA-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/proyek bima/BIMA-UBOT">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
